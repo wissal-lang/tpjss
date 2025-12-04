@@ -24,4 +24,6 @@ while (userBalance > 0) {
 } 
  
 console.log("User have sufficient money for " + daysSurvived + " days") 
+userPets.push("Hamster");
+userPets.pop();
 
