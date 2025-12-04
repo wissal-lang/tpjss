@@ -1,5 +1,5 @@
-let userName = "Andy" 
-let userAge = 45 
+let userName = "Andrew" 
+let userAge = 21
  
 //console.log("Text", variable) allows you to write to the console 
  
